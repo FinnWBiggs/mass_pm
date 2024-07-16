@@ -1,0 +1,2 @@
+osource "c:/users/finnb/documents/auli/mass_pm/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.5.0/nrf/boards/shields/*/Kconfig.defconfig"
