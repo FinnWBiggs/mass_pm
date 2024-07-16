@@ -13,3 +13,8 @@ Add build configuration
 | Configuration     | prj.conf                              | ----                                  |
 | Overlay           | boards\nrf52840dk_nrf52840.overlay    | REQ: chosen nordic,pm-ext-flash       |
 | Partitioning      | pm_static.yml                         | ----                                  |
+
+## Credit where credit is due
+
+Thank you to Michael Fierro. https://github.com/MiclFierro
+
